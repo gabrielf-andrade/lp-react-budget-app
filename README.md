@@ -3,7 +3,7 @@ Project based on the Youtube video: "How To Create A Budget App With React" - by
 - React Basics
 - React-Bootstrap
 - Context API
-- Hooks (useContext, useState, useEffect)
+- Hooks (useContext, useState, useEffect, useRef)
 - Custom Hooks
 - UUID
 
